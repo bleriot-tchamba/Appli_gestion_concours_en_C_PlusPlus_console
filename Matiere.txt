@@ -1,0 +1,14 @@
+info210 ;l'informatique fodamentale ;4
+chimi147 ;la chimie ;8
+info205 ;structure pour tous ;12.3
+allemand250 ;l'allemand ;7
+math218 ;la logique mathematique ;4
+info215 ;programmation ;5
+angl220 ;english language ;2
+info206 ;bases de donnees ;5
+info207 ;projet personnel de l'etudiant ;6
+info208 ;resaux et se ;9
+geo330 ;la geographie de la nature ;5
+info456 ;l'info pour tous ;4
+hist220 ;l'histoire de nos ancetres ;5
+
